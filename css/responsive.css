@@ -3,6 +3,125 @@
 }
 @media screen and (min-width: 431px) and (max-width: 768px){
  
+    .back5 , .back3 , .back4 , .back2, .back{
+        display: none;
+        }
+        h1 {
+            font-size: 32px;
+            line-height: 90%;
+            margin-top: 6vw;
+            width: 200px;
+        }
+        .photo{
+            width: 14vw;
+        }
+     .des{
+         font-size: 9px;
+         margin-left: 2%;
+         margin-top: 10%;
+     }
+
+    .horse{
+        width: 25%;
+        position: absolute;
+        margin: 1% 35%;
+    }
+    .box{
+        width: 135px;
+        height: 18.5vw;
+    }
+    .all{
+        position: absolute;
+        margin: 10px;
+        left: 5px;
+        top: 100px;
+        display: flex;
+    }
+    .all2{
+        position: absolute;
+        margin: 10px;
+        left: 130px;
+        top: 200px;
+        display: flex;
+    }
+    .all3{
+        position: absolute;
+        margin: 10px;
+        left: 130px;
+        top: 300px;
+        display: flex;
+    }
+    .all4{
+        position: absolute;
+        margin: 10px;
+        left: 5px;
+        top: 400px;
+        display: flex;
+    }
+    .all5{
+        position: absolute;
+        margin: 10px;
+        left: 130px;
+        top: 500px;
+        display: flex;
+    }
+    .all6{
+        position: absolute;
+        margin: 10px;
+        left: 5px;
+        top: 600px;
+        display: flex;
+    }
+    .all7{
+        position: absolute;
+        margin: 10px;
+        left: 5px;
+        top: 700px;
+        display: flex;
+    }
+    h2{
+        font-size: 18px;
+        margin-top: 5vw;
+        font-weight: 500;
+    }
+
+    .fot{
+        font-size: 14px;
+        margin: 2%;
+        }
+
+    .hse{
+            position: absolute;
+            width: 30%;
+            height: 15%;
+            margin: 30vw 2vw;
+            }
+    .author{
+            position: absolute;
+            font-size: 12px;  
+            margin: 25vw 2vw; 
+            }
+    footer{
+        position: absolute;
+        top: -25%;
+        height: 420px;
+        width: 100%;
+    }
+    .red1{
+        width: 50%;
+        margin-left: 2%;
+        }
+        .red2{
+        width: 50%;
+        margin-left: 2%;
+        }
+        .cont{
+            display: block;
+            justify-content: space-between;
+        }
+    .round{
+        border: 1px solid black;
+    }
 
 }
 
